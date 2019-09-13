@@ -1,0 +1,49 @@
+C:\Users\Gro\Desktop\AVGrammar1 - Copy\AVGrammar\bin\Debug\AVGrammar.exe
+C:\Users\Gro\Desktop\AVGrammar1 - Copy\AVGrammar\bin\Debug\AVGrammar.pdb
+C:\Users\Gro\Desktop\AVGrammar1 - Copy\AVGrammar\obj\x86\Debug\MainWindow.baml
+C:\Users\Gro\Desktop\AVGrammar1 - Copy\AVGrammar\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Gro\Desktop\AVGrammar1 - Copy\AVGrammar\obj\x86\Debug\App.g.cs
+C:\Users\Gro\Desktop\AVGrammar1 - Copy\AVGrammar\obj\x86\Debug\AVGrammar_MarkupCompile.cache
+C:\Users\Gro\Desktop\AVGrammar1 - Copy\AVGrammar\obj\x86\Debug\AVGrammar.g.resources
+C:\Users\Gro\Desktop\AVGrammar1 - Copy\AVGrammar\obj\x86\Debug\AVGrammar.Properties.Resources.resources
+C:\Users\Gro\Desktop\AVGrammar1 - Copy\AVGrammar\obj\x86\Debug\Snake.csproj.GenerateResource.Cache
+C:\Users\Gro\Desktop\AVGrammar1 - Copy\AVGrammar\obj\x86\Debug\AVGrammar.exe
+C:\Users\Gro\Desktop\AVGrammar1 - Copy\AVGrammar\obj\x86\Debug\AVGrammar.pdb
+C:\Users\Gro\Desktop\AVGrammar1 - Copy\AVGrammar\obj\x86\Debug\Snake.csprojResolveAssemblyReference.cache
+C:\Users\Gro\Desktop\AVGrammar\AVGrammar\obj\x86\Debug\AVGrammar.exe
+C:\Users\Gro\Desktop\AVGrammar\AVGrammar\obj\x86\Debug\AVGrammar.pdb
+C:\Users\Gro\Desktop\AVGrammar\AVGrammar\bin\Debug\AVGrammar.exe
+C:\Users\Gro\Desktop\AVGrammar\AVGrammar\bin\Debug\AVGrammar.pdb
+C:\Users\Gro\Desktop\AVGrammar\AVGrammar\obj\x86\Debug\Snake.csprojResolveAssemblyReference.cache
+C:\Users\Gro\Desktop\AVGrammar\AVGrammar\obj\x86\Debug\MainWindow.baml
+C:\Users\Gro\Desktop\AVGrammar\AVGrammar\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Gro\Desktop\AVGrammar\AVGrammar\obj\x86\Debug\App.g.cs
+C:\Users\Gro\Desktop\AVGrammar\AVGrammar\obj\x86\Debug\AVGrammar_MarkupCompile.cache
+C:\Users\Gro\Desktop\AVGrammar\AVGrammar\obj\x86\Debug\AVGrammar.g.resources
+C:\Users\Gro\Desktop\AVGrammar\AVGrammar\obj\x86\Debug\AVGrammar.Properties.Resources.resources
+C:\Users\Gro\Desktop\AVGrammar\AVGrammar\obj\x86\Debug\Snake.csproj.GenerateResource.Cache
+C:\Users\Gro\Desktop\SAVE ME\AVGrammar\obj\x86\Debug\AVGrammar.exe
+C:\Users\Gro\Desktop\SAVE ME\AVGrammar\obj\x86\Debug\AVGrammar.pdb
+C:\Users\Gro\Desktop\SAVE ME\AVGrammar\bin\Debug\AVGrammar.exe
+C:\Users\Gro\Desktop\SAVE ME\AVGrammar\bin\Debug\AVGrammar.pdb
+C:\Users\Gro\Desktop\SAVE ME\AVGrammar\obj\x86\Debug\Snake.csprojResolveAssemblyReference.cache
+C:\Users\Gro\Desktop\SAVE ME\AVGrammar\obj\x86\Debug\MainWindow.baml
+C:\Users\Gro\Desktop\SAVE ME\AVGrammar\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Gro\Desktop\SAVE ME\AVGrammar\obj\x86\Debug\App.g.cs
+C:\Users\Gro\Desktop\SAVE ME\AVGrammar\obj\x86\Debug\AVGrammar_MarkupCompile.cache
+C:\Users\Gro\Desktop\SAVE ME\AVGrammar\obj\x86\Debug\AVGrammar.g.resources
+C:\Users\Gro\Desktop\SAVE ME\AVGrammar\obj\x86\Debug\AVGrammar.Properties.Resources.resources
+C:\Users\Gro\Desktop\SAVE ME\AVGrammar\obj\x86\Debug\Snake.csproj.GenerateResource.Cache
+C:\Users\Administrator\Downloads\TalkingSnakeCode(2)\TalkingSnake\AVGrammar\bin\Debug\AVGrammar.exe
+C:\Users\Administrator\Downloads\TalkingSnakeCode(2)\TalkingSnake\AVGrammar\bin\Debug\AVGrammar.pdb
+C:\Users\Administrator\Downloads\TalkingSnakeCode(2)\TalkingSnake\AVGrammar\obj\x86\Debug\Snake.csprojAssemblyReference.cache
+C:\Users\Administrator\Downloads\TalkingSnakeCode(2)\TalkingSnake\AVGrammar\obj\x86\Debug\MainWindow.baml
+C:\Users\Administrator\Downloads\TalkingSnakeCode(2)\TalkingSnake\AVGrammar\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Administrator\Downloads\TalkingSnakeCode(2)\TalkingSnake\AVGrammar\obj\x86\Debug\App.g.cs
+C:\Users\Administrator\Downloads\TalkingSnakeCode(2)\TalkingSnake\AVGrammar\obj\x86\Debug\AVGrammar_MarkupCompile.cache
+C:\Users\Administrator\Downloads\TalkingSnakeCode(2)\TalkingSnake\AVGrammar\obj\x86\Debug\AVGrammar.g.resources
+C:\Users\Administrator\Downloads\TalkingSnakeCode(2)\TalkingSnake\AVGrammar\obj\x86\Debug\AVGrammar.Properties.Resources.resources
+C:\Users\Administrator\Downloads\TalkingSnakeCode(2)\TalkingSnake\AVGrammar\obj\x86\Debug\Snake.csproj.GenerateResource.cache
+C:\Users\Administrator\Downloads\TalkingSnakeCode(2)\TalkingSnake\AVGrammar\obj\x86\Debug\Snake.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Downloads\TalkingSnakeCode(2)\TalkingSnake\AVGrammar\obj\x86\Debug\AVGrammar.exe
+C:\Users\Administrator\Downloads\TalkingSnakeCode(2)\TalkingSnake\AVGrammar\obj\x86\Debug\AVGrammar.pdb
